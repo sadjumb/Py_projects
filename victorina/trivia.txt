@@ -1,4 +1,3 @@
-An Episode You Can't Refuse
 On the Run With a Mammal
 Let's say you turn state's evidence and need to "get on the lam." If you wait /too long, what will happen?
 You'll end up on the sheep
@@ -30,4 +29,3 @@ Read or write objects to a file with keys to allow you to find the objects more 
 Puts Pythons on a shelf
 Parks a bench
 2
-Shelving provides random access to the lists.
